@@ -1,0 +1,27 @@
+# 📈 MT5 Resources
+
+Welcome to my personal MetaTrader 5 (MT5) repository!  
+This is a public collection of tools, indicators, templates, and utilities coming from Metaquote, other developpers or myself that you can  use to trade more efficiently on MT5.
+
+---
+
+## 🔧 What You’ll Find Here
+
+- **Indicators**: Custom and modified indicators to enhance your charts and strategies.
+- **Templates**: My personal chart setups for faster strategy deployment and analysis.
+- **Scripts & Tools**: Helpful scripts or tools to automate repetitive tasks or improve MT5 functionality.
+- **Experiments**: Ideas, test indicators, or proof-of-concepts — not always production ready, but useful for learning.
+
+---
+
+## 📁 Repo Structure
+
+```bash
+MT5/
+├── indicators/      # .mq5 or .ex5 files
+├── templates/       # .tpl files
+├── experts/         # (optional) Any expert advisors
+├── scripts/         # Helpful automation scripts
+├── experiments/     # In-development or test files
+└── README.md
+
